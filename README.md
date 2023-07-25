@@ -6,7 +6,11 @@
 
 Página Pokédex desenvolvida com consumo da API [PokéAPI](https://pokeapi.co/).
 
-## 🛠️ Tecnologias
+
+
+
+
+## 🛠Tecnologias
 
 - HTML
 - CSS
@@ -25,7 +29,8 @@ Página Pokédex desenvolvida com consumo da API [PokéAPI](https://pokeapi.co/)
 ##  🔠Conteúdos
 
    * [Sobre](#sobre)
-   * [Autor](#autor)
+   * [Tecnologias](#tecnologias)
+   * [Colaboradores](#colaboradores)
    * [Status](#status-do-projeto)
    * [Objetivo do Projeto](#objetivo-do-projeto)
    * [Requisitos de Funcionalidade](#requisitos-de-funcionalidade)
@@ -46,6 +51,8 @@ Página Pokédex desenvolvida com consumo da API [PokéAPI](https://pokeapi.co/)
 ##  🎯Objetivo do Projeto
 
  Criar uma página Pokédex com 20 Pokémons obtidos mediante consumo da API PokéAPI.
+
+ ---
 
 ## ☑Requisitos de Funcionalidade
 
@@ -105,7 +112,7 @@ $ npm start
 
 ---
 
-##  👩Autor 
+##  👩Colaboradores 
 
 - Layla Janaína Hissa Borges
 
