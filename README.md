@@ -98,7 +98,7 @@ Para Rodar o projeto, siga as seguintes etapas :
 
 ```bash
 # Clone o projeto 
-$ git clone https://github.com/future4code/Joy-pokedex1.git
+$ git clone https://github.com/LaylaJHB/Pokedex.git
 ```
 ```bash
 # Instale as dependências.
