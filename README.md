@@ -44,7 +44,7 @@ Página Pokédex desenvolvida com consumo da API [PokéAPI](https://pokeapi.co/)
 ---
 ## 🧭Status do Projeto
 
- - ⏳ Feito
+ - ⏳ Fazendo
 
 ---
 
@@ -86,7 +86,7 @@ Página Pokédex desenvolvida com consumo da API [PokéAPI](https://pokeapi.co/)
 
 ## 🔗Link para Acessar
 
-- [useful-desire.surge.sh](useful-desire.surge.sh) 
+- https://pokedex-t5ph.onrender.com/
 
 
 ---
